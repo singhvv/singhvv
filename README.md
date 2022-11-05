@@ -1,0 +1,4 @@
+-  Hi, I’m @singhvv
+-  I’m currently pursuing a Bachelor's degree in Computer Science at the University of Lethbridge, AB
+-  I have worked with C++, Python and a little pine script as well because why not
+-  How to reach me: vp.182k@gmail.com
