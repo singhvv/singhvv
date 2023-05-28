@@ -1,4 +1,5 @@
 -  Hi, I’m @singhvv
--  I’m currently pursuing a Bachelor's degree in Computer Science at the University of Lethbridge, AB
+-  I've just graduated with a Bachelor's degree in Computer Science from the University of Lethbridge, AB
 -  I have worked with C++, Python and a little pine script as well because why not
--  How to reach me: vp.182k@gmail.com
+-  I enjoy working with data and am currently working on two projects, a web app and a little something with finance
+-  You can reach me via email at vp.182k@gmail.com
